@@ -1,0 +1,7 @@
+p=input("Enter p:")
+t=input("Enter t:")
+r=input("Enter r:")
+p=int(p)
+t=int(t)
+r=int(r)
+print((p*t*r)/100)
